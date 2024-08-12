@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ritvikgoyal-1
+- 👋 Hi, I’m Ritvik Goyal
 - 👀 I’m interested in learning more
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
